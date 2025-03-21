@@ -72,8 +72,9 @@ Speech-to-Text (if required)	Google Speech API / Azure Cognitive Services
 Authentication	OAuth 2.0 / JWT
 Deployment	AWS / Azure / Google Cloud
 DevOps & CI/CD	Docker, Kubernetes, GitHub Actions
-
+```
 ## Dependencies
+```
 AI/ML Libraries for NLP-based question & response evaluation.
 Cloud services for data storage and processing.
 Speech-to-text API for voice-based interviews (if implemented).
