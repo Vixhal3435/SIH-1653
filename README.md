@@ -62,6 +62,7 @@ Generates reports for selection and promotion decisions.
 
 
 ## Technology Stack
+```
 Component	Technology Used
 Frontend	React.js / Angular / Vue.js
 Backend	Node.js (Express.js) / Django / Flask
@@ -79,3 +80,4 @@ Speech-to-text API for voice-based interviews (if implemented).
 Security compliance to ensure interview data confidentiality.
 WebRTC / Video conferencing API (if live virtual interviews are needed).
 
+```
