@@ -43,22 +43,11 @@ Dashboard & Reports:
 
 Performance insights for interviewers and candidates.
 Detailed reports for HR and decision-makers.
+![image](https://github.com/user-attachments/assets/b9036aef-a721-419c-88d1-e719c4706639)
 
 ## Use Cases
-Candidate Perspective:
 
-Logs into the system, enters details, and selects a relevant domain.
-Undergoes a simulated boardroom interview experience.
-Receives AI-evaluated feedback & scores after the session.
-Interviewer Perspective:
-
-Logs in and selects or generates questions based on the candidate’s expertise.
-Uses AI-based suggestions to improve the interview process.
-Evaluates candidate responses and views AI-assisted scoring.
-Admin / HR Perspective:
-
-Manages user roles and access control.
-Generates reports for selection and promotion decisions.
+![image](https://github.com/user-attachments/assets/906dc845-7f6a-4e3a-829e-f1eace89876a)
 
 
 ## Technology Stack
